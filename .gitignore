@@ -67,3 +67,6 @@ sanity-backup*
 
 # GSD executor scratch space (run captures, throwaway probes)
 .gsd-scratch/
+
+# Local planning artifacts (never commit)
+.planning/
